@@ -1,5 +1,2 @@
 # Auto detect text files and perform LF normalization
- 
-node_modules/
-npm-debug.log
-yarn-error.log
+* text=auto 
